@@ -1,1 +1,1 @@
-# COVID-19-Checker
+# COVID-19 Checker

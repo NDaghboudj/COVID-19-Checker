@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">COVID-19 Checker</string>
+
+    <string name="outcome_healthy">Healthy</string>
+    <string name="outcome_infected">Infected</string>
+
+    <string name="feature_00">Difficulty Breathing</string>
+    <string name="feature_01">Fever</string>
+    <string name="feature_02">Dry Cough</string>
+    <string name="feature_03">Sore Throat</string>
+    <string name="feature_04">Asthma</string>
+    <string name="feature_05">Hyper Tension</string>
+    <string name="feature_06">Abroad Travel</string>
+    <string name="feature_07">Contact with COVID Patient</string>
+    <string name="feature_08">Attended Large Gathering</string>
+    <string name="feature_09">Visited Public Exposed Places</string>
+    <string name="feature_10">Family Working in Public Exposed Places</string>
+
+    <string-array name="features">
+        <item>@string/feature_00</item>
+        <item>@string/feature_01</item>
+        <item>@string/feature_02</item>
+        <item>@string/feature_03</item>
+        <item>@string/feature_04</item>
+        <item>@string/feature_05</item>
+        <item>@string/feature_06</item>
+        <item>@string/feature_07</item>
+        <item>@string/feature_08</item>
+        <item>@string/feature_09</item>
+        <item>@string/feature_10</item>
+    </string-array>
+</resources>
